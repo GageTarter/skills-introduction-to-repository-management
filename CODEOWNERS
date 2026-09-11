@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @GageTarter
+/src/backend/database.py      @GageTarter
+/src/backend/routers/auth.py  @GageTarter
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @GageTarter
